@@ -1,3 +1,11 @@
+.tiledbackground{
+    background-image: url("https://i.postimg.cc/XNKRmsns/unicorncolor.jpg");
+    background-size: 300px;
+    width: 1207px;
+    height: 2000px;
+    border: 1px solid;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
