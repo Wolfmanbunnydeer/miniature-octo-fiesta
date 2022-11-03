@@ -1,8 +1,6 @@
-<style>
-
 .tiledbackground{
     background-image: url("https://i.postimg.cc/XNKRmsns/unicorncolor.jpg");
-    background-size: 380px;
+    background-size: 580px;
     width: 1890px;
     height: 2000px;
     border: 1px solid;
@@ -22,4 +20,3 @@
   line-height: 45px;
   font-size: 20px;
 }
-</style>
